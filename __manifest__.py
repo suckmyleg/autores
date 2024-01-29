@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Biblioteca Comics Avanzada",  # Titulo del módulo
-    'summary': "Gestionar comics :)",  # Resumen de la funcionaliadad
+    'name': "Autores",  
+    'summary': "Gestión de autores", 
     'description': """
-                    Gestor de bibliotecas (Version avanzada)
+                    Gestor de Autores
                     ==============
                     """,  
-
-    #Indicamos que es una aplicación
     'application': True,
     'author': "Autor",
     'website': "website",
